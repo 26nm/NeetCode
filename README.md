@@ -6,6 +6,7 @@ Tracking my progress through Data Structures & Algorithms.
 - Arrays & Hashing
 - Two Pointers
 - Sliding Window
+- Stacks
 
 ## Approach
 - Active recall
