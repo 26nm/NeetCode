@@ -16,5 +16,5 @@ Tracking my progress through Data Structures & Algorithms.
 - Timed problem solving
 - Pattern recognition
 
-## Notes
+# Notes 📝
 Solutions are organized by topic based on NeetCode roadmap.
