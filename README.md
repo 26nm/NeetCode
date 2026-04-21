@@ -2,12 +2,14 @@
 
 Tracking my progress through Data Structures & Algorithms.
 
-## Focus Areas
+## Completed Topics
 - Arrays & Hashing
 - Two Pointers
 - Sliding Window
 - Stacks
-- LinkedLists
+
+## Currently Studying
+- Linked Lists
 
 ## Approach
 - Active recall
