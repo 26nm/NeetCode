@@ -1,4 +1,4 @@
-# LeetCode Practice
+# LeetCode Practice 🎯
 
 Tracking my progress through Data Structures & Algorithms.
 
