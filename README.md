@@ -7,6 +7,7 @@ Tracking my progress through Data Structures & Algorithms.
 - Two Pointers
 - Sliding Window
 - Stacks
+- LinkedLists
 
 ## Approach
 - Active recall
