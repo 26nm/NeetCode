@@ -7,9 +7,10 @@ Tracking my progress through Data Structures & Algorithms.
 - Two Pointers
 - Sliding Window
 - Stacks
+- Linked Lists
 
 ## Currently Studying
-- Linked Lists
+- Binary Search
 
 ## Approach
 - Active recall
