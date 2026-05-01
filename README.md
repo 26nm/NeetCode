@@ -8,9 +8,10 @@ Tracking my progress through Data Structures & Algorithms.
 - Sliding Window
 - Stacks
 - Linked Lists
+- Binary Search
 
 ## Currently Studying
-- Binary Search
+- Trees
 
 ## Approach
 - Active recall
