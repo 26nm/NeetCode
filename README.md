@@ -9,9 +9,10 @@ Tracking my progress through Data Structures & Algorithms.
 - Stacks
 - Linked Lists
 - Binary Search
+- Trees
 
 ## Currently Studying
-- Trees
+- Heaps/Priority Queues
 
 ## Approach
 - Active recall
