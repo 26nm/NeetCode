@@ -1,6 +1,6 @@
 # LeetCode Practice 🎯
 
-Tracking my progress through Data Structures & Algorithms.
+Tracking my progress through Data Structures & Algorithms and PostgreSQL.
 
 ## Completed Topics
 - Arrays & Hashing
@@ -13,6 +13,7 @@ Tracking my progress through Data Structures & Algorithms.
 
 ## Currently Studying
 - Heaps/Priority Queues
+- PostgreSQL
 
 ## Approach
 - Active recall
