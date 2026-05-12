@@ -10,9 +10,10 @@ Tracking my progress through Data Structures & Algorithms and PostgreSQL.
 - Linked Lists
 - Binary Search
 - Trees
+- Heaps/Priority Queues
 
 ## Currently Studying
-- Heaps/Priority Queues
+- Intervals
 - PostgreSQL
 
 ## Approach
