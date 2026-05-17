@@ -11,10 +11,10 @@ Tracking my progress through Data Structures & Algorithms and PostgreSQL.
 - Binary Search
 - Trees
 - Heaps/Priority Queues
+- Intervals
 
 ## Currently Studying
-- Intervals
-- PostgreSQL
+- Greedy
 
 ## Approach
 - Active recall
