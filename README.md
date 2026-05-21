@@ -12,9 +12,10 @@ Tracking my progress through Data Structures & Algorithms and PostgreSQL.
 - Trees
 - Heaps/Priority Queues
 - Intervals
+- Greedy
 
 ## Currently Studying
-- Greedy
+- Backtracking
 
 ## Approach
 - Active recall
