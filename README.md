@@ -15,9 +15,10 @@ Tracking my progress through Data Structures & Algorithms.
 - Greedy
 - Backtracking
 - Graphs
+- 1D Dynamic Programming
 
 ## Currently Studying
-- 1D Dynamic Programming
+- 2D Dynamic Programming
 
 ## Approach
 - Active recall
